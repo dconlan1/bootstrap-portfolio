@@ -1,8 +1,6 @@
 # -Responsive-Portfolio-
 UC Berkeley 
 
-what the project is, technologies used, `screenshots` of essential code, and `gif walkthroughs` of the application functioning. **Homework will be issued an incomplete if submitted with an unsatisfactory README**.
-
 This is a class portfolio using responsive layout techniques required for modern mobile applications.  
 
 *One exercise is done using manual resizing techniques within a custom .CSS sheet. 
