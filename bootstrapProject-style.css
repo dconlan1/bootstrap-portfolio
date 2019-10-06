@@ -1,6 +1,136 @@
 img {
     float: left;
-    margin-right: 10px;
-    margin-bottom: 10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
     width: 200px;
 }
+
+body {
+    background-image: url("paper1.png");
+    
+}
+
+.cardbox {
+    margin: 30px 0;
+
+}
+
+.footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #666666;
+    border-top: 8px solid #4aaaa5;
+    height: 50px;
+  }
+
+.imagedave {
+    width: 20rem;
+    float: left;
+}
+
+.aboutme {
+    margin-left: 30px;
+    color: #4aaaa5;
+   
+}
+
+.titledave {
+    background: #4aaaa5;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.portfoliocontainer {
+    background-color: #ffffff;
+    padding: 20px;
+}
+
+.portfoliocard {
+    margin: 30px 0;
+    text-align: center;
+
+}
+
+.btncolor {
+    background-color: #4aaaa5;
+    color: #ffffff;
+}
+
+.contact-form {
+    background: #ffffff;
+    width: 60%;
+    margin: 0 auto;
+    padding: 3rem;
+    border-radius: 5px;
+   
+  }
+
+.contact-form-box {
+    margin: 30px;
+    padding: 20px;
+}
+
+
+  input[type=text], select {
+   width: 100%;
+   padding: 1.4rem 2rem;
+   margin: 8px 0;
+   display: inline-block;
+   border: 1px solid #4aaaa5;
+   border-radius: 5px;
+   transition: .5s;
+  }
+
+
+  input[type=text]:focus {
+    border: 3px solid #4aaaa5;
+  }
+
+
+  input[type=submit] {
+    font-size: 1.6rem;
+   width: 100%;
+   background-color: #4aaaa5;
+   color: white;
+   padding: 1rem 2rem;
+   margin: 8px 0;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+  }
+
+
+  input[type=submit]:hover {
+   box-shadow: 1px 1px 1rem #666666;
+  }
+
+
+  input[type=submit]:active {
+   box-shadow: .5px .5px .5rem #3a3a3a;
+   transform: translateY(3px);
+  }
+
+
+  input[type=text],
+  select,
+  textarea {
+   width: 100%;
+   padding: 8px;
+   border-radius: 3px;
+   border: 1px solid #4aaaa5;
+  }
+
+  .card-img-d {
+      width: 100%;
+
+  }
