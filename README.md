@@ -7,6 +7,8 @@ This is a class portfolio using responsive layout techniques required for modern
 
 *The second exercise is done using Bootstrap components tied to their .CSS platform. 
 
+*The media query breakpoints we used are: 576px, 768px, 992px,and 1200px. 
+
 Some interseting code is found here: 
 
 *<div class="container">
@@ -35,10 +37,10 @@ and here:
 
 *Here are some walktroughs of the pages
 
-<img src="contact.html" width="90" height="75" class="card-img-top">
+<img src="contact.png" width="90" height="75" class="card-img-top">
 
 
-<img src="portfolio.html" width="90" height="75" class="card-img-top">
+<img src="portfolio.png" width="90" height="75" class="card-img-top">
 
 
-<img src="project1.html" width="90" height="75" class="card-img-top">
+<img src="index.png" width="90" height="75" class="card-img-top">
